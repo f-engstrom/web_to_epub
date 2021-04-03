@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_to_epub_console_app", "web_to_epub_console_app\web_to_epub_console_app.csproj", "{4EA69166-2FB5-40D0-A7A0-9BD7B30929F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA69166-2FB5-40D0-A7A0-9BD7B30929F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA69166-2FB5-40D0-A7A0-9BD7B30929F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA69166-2FB5-40D0-A7A0-9BD7B30929F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA69166-2FB5-40D0-A7A0-9BD7B30929F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
